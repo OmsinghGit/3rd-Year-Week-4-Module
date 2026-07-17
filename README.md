@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week 4 Module
 
 Solutions for Week 4 DSA programming practice covering Time & Space Complexity analysis and basic algorithm implementation.
@@ -45,3 +46,6 @@ Solutions for Week 4 DSA programming practice covering Time & Space Complexity a
 
 - GitHub: https://github.com/OmsinghGit
 - LinkedIn: https://linkedin.com/in/omsingh1-tech
+=======
+# 3rd-Year-Week-4-Module
+>>>>>>> 45a931fd1eda2bf402f90bf249cd57290f0a633f
